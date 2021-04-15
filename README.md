@@ -22,6 +22,7 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"/>  </a>  
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
-<a href="https://visualstudio.microsoft.com/" title="C#"> <img src="https://camo.githubusercontent.com/62beab93aafa706257317baed2f3caa8005b149618cb0f1e578f83095136fea8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65342f56697375616c5f53747564696f5f323031335f4c6f676f2e737667" alt="C#" width="40" height="40"/> </a>
+<a href="https://visualstudio.microsoft.com/" title="C#"> <img src="![csharp-e7b8fcd4ce](https://user-images.githubusercontent.com/73295803/114937674-c1b9a300-9e46-11eb-8a42-f75b7cdc892d.png)
+" alt="C#" width="40" height="40"/> </a>
 <a href="https://unity.com/" title="Unity"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Game" width="40" height="40"/>  </a>
 </p>
