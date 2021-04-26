@@ -15,6 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://git-scm.com/" target="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
+<a href="https://isocpp.org/"  target="cpp"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  </a>  
 <a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="40" height="40"/>  </a>  
