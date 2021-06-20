@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science student at Ariel University</h3>
 
 - 🌱 I’m currently learning Java, Python,C and C# langauges
-- 💬 LinkedIn: www.linkedin.com/in/david-kokiashvili
+- 💬 LinkedIn: https://www.linkedin.com/in/dave05/
 - 📫 Email: davidkokia@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
